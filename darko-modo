@@ -1,0 +1,22 @@
+<style>
+#main{ 
+    background-color:#292929;
+    
+}
+header * {background-color:#292929 !important;}
+body {background-color:#292929 !important;}
+#footer * {background-color:#292929 !important;}
+a {color:white !important;}
+div.quick-comment-body{display: none;}
+span {color:white !important;}
+.acs-side-bar {background-color:#292929 !important;}
+.with-breadcrumbs a {
+color:white !important;}
+.space-tools-section {background-color:#292929 !important;}
+.query-inspector {
+display:none;}
+.query-inspector-title {
+display:none;}
+.order-by-inspector{
+display:none;}
+</style>
